@@ -1,7 +1,7 @@
-! name: test goggle
-! description: What my Goggle does
-! public: false
-! author: sruly
+! name: Jewish sites
+! description: searches jewish sites
+! public: True
+! author: somebody
 ! avatar: #ff6600
 
 $discard
