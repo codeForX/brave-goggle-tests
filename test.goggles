@@ -6,15 +6,15 @@
 
 $discard
 $boost=5,site=sefaria.org/sheets
-$boost=4,site=https://dinonline.org/
+$boost=4,site=https://dinonline.org
 $boost=4,site=aish.com
 $boost=2,site=chabbad.org
-$boost=3,judaism.stackexchange.com
-$boost=3,reddit.com/r/Judaism
+$boost=3,site=judaism.stackexchange.com
+$boost=3,site=reddit.com/r/Judaism
 $boost=3,site=ou.org
 $boost=3,site=myjewishlearning.com
-$boost=3,site=https://www.star-k.org/
+$boost=3,site=https://www.star-k.org
 $boost=2,site=sefaria.org
-$boost=2,site=https://www.totallyjewishtravel.com/
+$boost=2,site=https://www.totallyjewishtravel.com
 $boost=2,site=jewishvirtuallibrary.org
 $boost=1,site=wikipedia.org
