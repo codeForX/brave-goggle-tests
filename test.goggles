@@ -5,12 +5,12 @@
 ! avatar: #ff6600
 
 $discard
-$boost=5,/sheets/$site=sefaria.org
+$boost=5,site=sefaria.org/sheets
 $boost=4,site=dinonline.org
 $boost=4,site=aish.com
 $boost=2,site=chabbad.org
-$boost=3,judaism.stackexchange.com
-$boost=3,/r/Judaism/$site=reddit.com
+$boost=3,site=judaism.stackexchange.com
+$boost=3,site=reddit.com/r/Judaism
 $boost=3,site=ou.org
 $boost=3,site=myjewishlearning.com
 $boost=3,site=star-k.org
