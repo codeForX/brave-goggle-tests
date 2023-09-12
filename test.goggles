@@ -10,7 +10,7 @@ $boost=4,site=dinonline.org
 $boost=4,site=aish.com
 $boost=2,site=chabbad.org
 
-$boost=2, r/Judaism/$site=reddit.com
+$boost=2, /r/Judaism/$site=reddit.com
 $boost=3,site=ou.org
 $boost=3,site=myjewishlearning.com
 $boost=3,site=star-k.org
