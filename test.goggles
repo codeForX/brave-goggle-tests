@@ -9,8 +9,8 @@ $discard
 $boost=4,site=dinonline.org
 $boost=4,site=aish.com
 $boost=2,site=chabbad.org
-$boost=3,https://judaism.stackexchange.com
-$boost=3,|https://www.reddit.com/r/Judaism/
+$boost=3, https://judaism.stackexchange.com/*
+$boost=3,|https://www.reddit.com/r/Judaism/*
 $boost=3,site=ou.org
 $boost=3,site=myjewishlearning.com
 $boost=3,site=star-k.org
