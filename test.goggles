@@ -13,6 +13,6 @@ $boost=3,site=ou.org
 $boost=3,site=myjewishlearning.com
 $boost=2,site=jewishvirtuallibrary.org
 $boost=3,site=wikipedia.org
-$boost=4,https://dinonline.org/
-$boost=3,https://www.star-k.org/
-$boost=2,https://www.totallyjewishtravel.com/
+$boost=4,site=https://dinonline.org/
+$boost=3,site=https://www.star-k.org/
+$boost=2,site=https://www.totallyjewishtravel.com/
